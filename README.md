@@ -7,10 +7,6 @@
 
 A simple web application built with **Streamlit** to deploy a **Convolutional Neural Network (CNN)** model trained on the CIFAR-10 dataset.
 
-<p align="center">
-  <img src="[ADD_A_SCREENSHOT_OR_GIF_OF_YOUR_APP_HERE]" alt="App Demo Screenshot" width="700"/>
-</p>
-
 ---
 
 ## 📋 Table of Contents
